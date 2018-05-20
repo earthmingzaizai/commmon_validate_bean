@@ -1,0 +1,1 @@
+# commmon_validate_bean
